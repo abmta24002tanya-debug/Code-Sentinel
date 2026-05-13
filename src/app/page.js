@@ -14,7 +14,7 @@ export default function HomePage() {
   // Boot sequence text
   const [bootLines, setBootLines] = useState([]);
   const bootSequence = [
-    "> SENTINEL v3.7.1 INITIALIZING...",
+    "> SENTINEL v1.0.1 INITIALIZING...",
     "> LOADING THREAT INTELLIGENCE DATABASE...",
     "> AI NEURAL NETWORK: ONLINE",
     "> VULNERABILITY SIGNATURES: 47,291 LOADED",

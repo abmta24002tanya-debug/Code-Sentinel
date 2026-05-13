@@ -2,6 +2,13 @@ node_modules/
 .venv/
 .next/
 dist/
-__pycache__/
+# __pycache__/
 *.log
 startup_output.txt
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite DBs (optional)
+*.db
+*.sqlite3
